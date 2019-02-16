@@ -1,2 +1,8 @@
 *.class
 *.log
+
+.idea/*
+project/*
+target/*
+*.xml
+.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml
