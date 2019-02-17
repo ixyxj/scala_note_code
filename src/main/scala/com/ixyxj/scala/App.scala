@@ -1,4 +1,4 @@
-package com.ixyxj
+package com.ixyxj.scala
 
 /**
   * Created by silen on 2019/2/16 23:10
